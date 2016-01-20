@@ -1,0 +1,6 @@
+classes/
+work/
+.project
+.settings/org.eclipse.jdt.core.prefs
+.tomcatplugin
+.classpath

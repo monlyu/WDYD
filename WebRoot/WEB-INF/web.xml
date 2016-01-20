@@ -1,0 +1,28 @@
+<web-app xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd"
+	version="2.4">
+	
+	<!-- 配置欢迎页面 -->
+	<welcome-file-list>
+		<welcome-file>index.jsp</welcome-file>
+	</welcome-file-list>
+
+	<servlet>
+		<servlet-name>action</servlet-name>
+		<servlet-class>com.timer.Action</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>action</servlet-name>
+		<url-pattern>/act.do</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>report</servlet-name>
+		<servlet-class>com.timer.Report</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>report</servlet-name>
+		<url-pattern>/report.do</url-pattern>
+	</servlet-mapping>
+
+</web-app>
