@@ -22,8 +22,7 @@ URL参数就可以
 
 ## 界面预览
 
-<ul>
-  <li><img src="https://raw.githubusercontent.com/monlyu/WDYD/master/documents/screenshot/work_list.png" style="width:100%" /></li>
-  <li><img src="https://raw.githubusercontent.com/monlyu/WDYD/master/documents/screenshot/add_task.png" style="width:100%" /></li>
-  <li><img src="https://raw.githubusercontent.com/monlyu/WDYD/master/documents/screenshot/mail_temp.png" style="width:100%" /></li>
-</ul>
+<img src="https://raw.githubusercontent.com/monlyu/WDYD/master/documents/screenshot/work_list.png" style="width:100%" />
+<img src="https://raw.githubusercontent.com/monlyu/WDYD/master/documents/screenshot/add_task.png" style="width:100%" />
+<img src="https://raw.githubusercontent.com/monlyu/WDYD/master/documents/screenshot/mail_temp.png" style="width:100%" />
+
